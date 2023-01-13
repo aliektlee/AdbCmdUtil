@@ -1,4 +1,4 @@
-# ABD Command Util
+# ADB Command Util
 
 [![Generic badge](https://img.shields.io/badge/Python-v3.11-blue.svg)](https://shields.io/)
 
