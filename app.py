@@ -88,7 +88,7 @@ class AdbUtil:
                 print(fg.green + "Done" + fg.rs)
                 self.lsCmd()
         else:
-            print(fg.red + "Source File Not Found" + fg.rs)
+            print(fg.red + "Source File Not Found:" + file + fg.rs)
 
     def delCmd(self, file):
         response = self._device.shell(
